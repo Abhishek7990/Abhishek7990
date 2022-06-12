@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning android and making projects in it.
 - 💞️ I’m looking to collaborate on various real world projects.
 - 📫 My Contact details are as follows : <br/>
-     Email id : abhisheksinghofficial3@gmail.com
+     Email id : abhisheksinghofficial3@gmail.com <br/>
      Phone no. : +91 7990406520
 
 <!---
